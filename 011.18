@@ -1,0 +1,16 @@
+Extra fields:
+- Via will review which fields are the critical fields to finetune (e.g., company) - will get back to me
+
+Parsing code / data cleansing
+- Spliting the wage (potentially using $ and then stopping after we dont see a digit or ,.)
+- Bullet points
+- corrupted symbols
+
+it's ok if i don't finish as much bc of hackathon (next meeting will meet other intern sooo i can spend the time
+talking abt my work to her instead of talking abt all the new stuff i did this week); she's doing react
+
+Moving forward:
+she doesn't want me to scrape all four after seeing the complexity of my code 
+-> instead, just finish scraping this one website and THEN setup aws / database 
+and then maybe help out with frontend for careers if i want to (and then if time, continue scraping)
+bc what's most important is to get end-to-end product down (don't have to finish everything)

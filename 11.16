@@ -1,0 +1,10 @@
+https://jobs.phsa.ca/job/vancouver/registered-nurse-rn-on-call-sexual-assault-service-bc-women-s-hospital-health-centre/909/65316216496
+^Many missing fields: Job_Type etc has the information within the same heading
+^Has no qualifications vs skills split under "What we bring" -- should i just put it all in one of the sections?
+
+Scraping all 300 jobs took 15-20 minutes
+Note: I concatenated bullet points with the bullet symbol which doesn't copy over properly in csv (which explains the weird symbol)
+# NOTE: FOR NOW, LET'S KEEP WAGE AS JUST TEXT -- WILL SPLIT INTO INTEGERS LATER (maybe using AI)
+
+Fixed the problem with description not being pulled (different comma types)
+Fixed the problem with wage not being pulled (sometimes called Salary Range)
